@@ -27,3 +27,17 @@ def show
   end
 end
 {% endhighlight %}
+
+{% highlight C# %}
+public void MyFunction(int myInt, float myFloat)
+{
+	var myVar = new Bla();
+
+	myVar.Hello();
+}
+{% endhighlight %}
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
